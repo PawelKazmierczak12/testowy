@@ -9,3 +9,4 @@ Zmiana09
 Zmiana10a
 Zmiana10Git
 Zmiana11Git
+Zmiana12myLocalBranch
