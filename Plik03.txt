@@ -11,3 +11,4 @@ Zmiana10Git
 Zmiana11Git
 Zmiana12myLocalBranch
 Zmiana13
+Zmiana14
