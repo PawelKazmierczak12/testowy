@@ -8,4 +8,6 @@ Zmiana08
 Zmiana09
 Zmiana10a
 Zmiana10Git
-Zmiana12WKlonie
+Zmiana11Git
+Zmiana12myLocalBranch
+Zmiana13
